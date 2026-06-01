@@ -25,4 +25,4 @@ Because we collect absolutely zero personal information from any user, REN_Note 
 We may update our Privacy Policy from time to time. Since we have no contact channels or server databases, all updates will be posted directly within this page.
 
 ### 6. Contact Us
-If you have any questions regarding our local privacy commitment, please contact us at: **support@rennote.com**
+If you have any questions regarding our local privacy commitment, please contact us at: **rennote.official@gmail.com**
